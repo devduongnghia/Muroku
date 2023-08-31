@@ -83,6 +83,6 @@ NOTICE: For bypass work need install lastest verion Chrome
 
 ## Contact Developer
 ```sh
-Dev : https://t.me/hvladimir.truhlar.982
+Dev : https://m.me/hvladimir.truhlar.982
 ```
 
