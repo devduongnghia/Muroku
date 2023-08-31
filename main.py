@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # From NV with love
-# Hasoki v1.1
+# MUROKU
 # All for FREE
 from os import system, name
 import httpx
