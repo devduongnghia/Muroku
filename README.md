@@ -1,6 +1,4 @@
 <div align=center>
-<p align="center"><img src="https://www.linkpicture.com/q/daac.png" width="1104px" height="639px" alt="ddos"></p>
- <p>
  <img src="https://img.shields.io/github/stars/cutipu/HASOKI?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/cutipu/HASOKI?color=%239999FF&style=for-the-badge"/> &nbsp;
   <a href="#"><img alt="Hasoki last commit (main)" src="https://img.shields.io/github/last-commit/cutipu/HASOKI/main?color=green&style=for-the-badge"></a>
